@@ -1,3 +1,5 @@
+#define _GNU_SOURCE
+#include <stdlib.h>
 #include <WiFi.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
